@@ -1,0 +1,3 @@
+complete a web form: https://formy-project.herokuapp.com/form
+
+Switch window and detect an alert: https://formy-project.herokuapp.com/switch-window
