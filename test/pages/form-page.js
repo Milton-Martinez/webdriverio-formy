@@ -6,7 +6,7 @@ export class Form {
         this.navigation = new Navigation();
     }   
     open(){
-        return this.navigation.goToUrl();
+        this.navigation.goToUrl();
     }
     async selectFormPage(){
         const formPage = await this.navigation.linksMenu[13];
